@@ -1,12 +1,15 @@
 # Rock Paper Scissors 
 
-<p align="center">
+<p>
   <img src="./{80F7FC8F-93BE-43CF-B6A1-06B8734F7CB8}.png" alt="Game Preview" width="600">
 </p>
 
+---
+
 A functional JavaScript game played in the browser console. This project was built as the first logic challenge in [The Odin Project](https://www.theodinproject.com) Foundations.
 
-##  [Live Demo](https://codamee.github.io/rock-paper-scissors/)
+## 🚀 Live Demo
+[Play the game here!](https://codamee.github.io/rock-paper-scissors/)
 
 ## 🧠 Project Concept
 The goal was to create a game that challenges a human player against a computer AI using pure JavaScript logic. 
