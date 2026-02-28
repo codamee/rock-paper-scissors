@@ -6,8 +6,7 @@
 
 A functional JavaScript game played in the browser console. This project was built as the first logic challenge in [The Odin Project](https://www.theodinproject.com) Foundations.
 
-## 🚀 Live Demo
-[Play the game here!](https://codamee.github.io/rock-paper-scissors/)
+##  [Live Demo](https://codamee.github.io/rock-paper-scissors/)
 
 ## 🧠 Project Concept
 The goal was to create a game that challenges a human player against a computer AI using pure JavaScript logic. 
