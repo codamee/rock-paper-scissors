@@ -1,7 +1,7 @@
 # Rock Paper Scissors 
 
 <p>
-  <img src="./{80F7FC8F-93BE-43CF-B6A1-06B8734F7CB8}.png" alt="Game Preview" width="600">
+  <img src="./{80F7FC8F-93BE-43CF-B6A1-06B8734F7CB8}.png" alt="Game Preview" width="400">
 </p>
 
 ---
