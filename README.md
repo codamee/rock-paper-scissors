@@ -1,9 +1,11 @@
 # Rock Paper Scissors 
 
-<p align="center">
+<p>
   <img src="./{80F7FC8F-93BE-43CF-B6A1-06B8734F7CB8}.png" alt="Game Preview" width="600">
 </p>
+
 ---
+
 A functional JavaScript game played . This project was built as the first logic challenge in [The Odin Project](https://www.theodinproject.com) Foundations.
 
 ## 🧠 Project Concept
