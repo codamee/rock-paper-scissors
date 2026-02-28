@@ -16,3 +16,4 @@ The goal was to create a game that challenges human against a computer.
 2. Follow the prompts to enter your choice!
 
 ---
+![Game Preview](./{80F7FC8F-93BE-43CF-B6A1-06B8734F7CB8}.png)
